@@ -109,3 +109,9 @@ const isPalindrome = name => {
   }
   console.log("Palindrome");
 }
+  
+  
+  
+  
+  
+  .
